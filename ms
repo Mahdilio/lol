@@ -1,27 +1,4 @@
-{  
-"route": {
-    "geoip": {
-      "path": "geo-assets\\sagernet-sing-geoip-geoip.db"
-    },
-    "geosite": {
-      "path": "geo-assets\\sagernet-sing-geosite-geosite.db"
-    },
-    "rules": [
-      {
-        "inbound": "dns-in",
-        "outbound": "dns-out"
-      },
-      {
-        "port": 53,
-        "outbound": "dns-out"
-      },
-      {
-        "clash_mode": "Direct",
-        "outbound": "direct"
-      },
-      {
-        "clash_mode": "Global",
-        "outbound": "select"
+
       }
     ],
     "auto_detect_interface": true,

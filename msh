@@ -33,8 +33,8 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "IP->Iran, Yotube:MisaHiro",
-        "IP->Main, Yotube:MisaHiro"
+        "IP->مهدی, ",
+        "IP->Mahdi, "
       ],
       "default": "auto"
     },
@@ -42,40 +42,40 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "IP->Iran, Yotube:MisaHiro",
-        "IP->Main, Yotube:MisaHiro"
+        "IP->مهدی, ",
+        "IP->Mahdi, "
       ],
       "url": "http://cp.cloudflare.com/",
       "interval": "10m0s"
     },
     {
       "type": "wireguard",
-      "tag": "IP->Iran, Yotube:MisaHiro",
+      "tag": "IP->مهدی, ",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8423:54a4:c90a:dbff:69bf/128"
+        "2606:4700:110:8b76:b426:6b4:f304:a639/128"
       ],
-      "private_key": "YIcFVuYHGGz+ya9Q+aatqOx/kDgqADUAhPQ+vTFchH8=",
-      "server": "162.159.192.116",
-      "server_port": 4233,
+      "private_key": "sBQDbt8VwkNm+muomXZB+Fx9Fbp/lIchYNuUdkBEa1w=",
+      "server": "162.159.192.110",
+      "server_port": 894,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [ 149, 170, 233 ],
+      "reserved": [ 136, 230, 87 ],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
     {
       "type": "wireguard",
-      "tag": "IP->Main, Yotube:MisaHiro",
-      "detour": "IP->Iran, Yotube:MisaHiro",
+      "tag": "IP->Mahdi, ",
+      "detour": "IP->مهدی, ",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8075:4fc9:72b2:da57:e167/128"
+        "2606:4700:110:8d02:9610:6bcd:8635:3ece/128"
       ],
-      "private_key": "YIwB0kZ88EhgSQ9zvsvCGQVHPI18pxMtvnzhe//OiUA=",
-      "server": "162.159.192.116",
-      "server_port": 4233,
+      "private_key": "kB21iHPVKQckoQkQ7RvhVrJ2jWUQXuRMSrp4LJyy1kg=",
+      "server": "162.159.192.110",
+      "server_port": 894,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [ 192, 208, 170 ],
+      "reserved": [ 95, 208, 111 ],
       "mtu": 1280,
       "fake_packets": "5-10"
     },

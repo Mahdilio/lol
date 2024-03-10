@@ -33,8 +33,8 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "IP->مهدی",
-        "IP->Mahdi",
+        "IP->مهدی, ",
+        "IP->Mahdi, "
       ],
       "default": "auto"
     },
@@ -42,15 +42,15 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "IP->مهدی",
-        "IP->Mahdi",
+        "IP->مهدی, ",
+        "IP->Mahdi, "
       ],
       "url": "http://cp.cloudflare.com/",
       "interval": "10m0s"
     },
     {
       "type": "wireguard",
-      "tag": "IP->مهدی",
+      "tag": "IP->مهدی, ",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8b76:b426:6b4:f304:a639/128"
@@ -65,8 +65,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "IP->Mahdi",
-      "detour": "IP->مهدی",
+      "tag": "IP->Mahdi, ",
+      "detour": "IP->مهدی, ",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8d02:9610:6bcd:8635:3ece/128"

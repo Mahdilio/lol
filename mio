@@ -9,8 +9,8 @@
         "2606:4700:110:8fb6:aec2:b476:3751:c7fc/128"
       ],
       "private_key": "iAwt0+ZP5QtusXbwVrKmAUI13NEDwJqTfiTaL0/rpEw=",
-      "server": "162.159.192.153",
-      "server_port": 988,
+      "server": "162.159.192.105",
+      "server_port": 1010,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [ 5, 238, 19 ],
       "mtu": 1280,
@@ -25,8 +25,8 @@
         "2606:4700:110:8740:ea2d:efe6:2c8a:33a9/128"
       ],
       "private_key": "WOHMb0yQ6CaNiQEOYrpG5T4/nJd2dWSdyQ2K3gURkkc=",
-      "server": "162.159.192.153",
-      "server_port": 988,
+      "server": "162.159.192.105",
+      "server_port": 1010,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [ 203, 51, 50 ],
       "mtu": 1280,

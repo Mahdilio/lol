@@ -1,3 +1,6 @@
-warp://162.159.192.152:4233/?ifp=1-5#مهدی&&detour=warp://162.159.192.246:4233/?ifp=1-5#Mahdi
-warp://162.159.192.120:4233/?ifp=1-5#مهدی&&detour=warp://162.159.192.207:1180/?ifp=1-5#Mahdi
-warp://162.159.192.120:1180/?ifp=1-5#مهدی&&detour=warp://162.159.192.152:1180/?ifp=1-5#Mahdi
+warp:////#Mahdi
+warp:///auto/#مهدی
+warp:///auto/#Mahdi
+warp:///auto/#مهدی
+warp:///auto/#Mahdi
+warp:///auto/#مهدی

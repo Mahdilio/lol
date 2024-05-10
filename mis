@@ -1,3 +1,8 @@
+//profile-title: MIS
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//profile-web-page-url: https://raw.githubusercontent.com/Mahdilio/lol/main/mis
+
 {  
 "route": {
     "geoip": {
@@ -33,8 +38,8 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "مهدی ",
-        "Mahdi "
+        "مهدی🇮🇷 ",
+        "Mahdi🇩🇪 "
       ],
       "default": "auto"
     },
@@ -42,15 +47,15 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "مهدی ",
-        "Mahdi "
+        "مهدی🇮🇷 ",
+        "Mahdi🇩🇪 "
       ],
       "url": "http://cp.cloudflare.com/",
       "interval": "10m0s"
     },
     {
       "type": "wireguard",
-      "tag": "مهدی ",
+      "tag": "مهدی🇮🇷 ",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8f6f:2da3:7e5c:4186:1d25/128"
@@ -65,8 +70,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "Mahdi ",
-      "detour": "مهدی ",
+      "tag": "Mahdi🇩🇪 ",
+      "detour": "مهدی🇮🇷 ",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:87b8:46c9:20f8:870:6d9a/128"

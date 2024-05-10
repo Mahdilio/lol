@@ -1,4 +1,4 @@
-//profile-title: mio
+//profile-title: MIO
 //profile-update-interval: 24
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 //profile-web-page-url: https://raw.githubusercontent.com/Mahdilio/lol/main/mio
@@ -8,7 +8,7 @@
   [
     {
       "type": "wireguard",
-      "tag": "مهدی",
+      "tag": "مهدی🇮🇷",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8869:84f1:f598:98c7:d333/128"
@@ -23,8 +23,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "Mahdi",
-      "detour": "مهدی",
+      "tag": "Mahdi🇩🇪",
+      "detour": "مهدی🇮🇷",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8d10:88b9:b6f2:3038:e0/128"

@@ -1,6 +1,6 @@
 //profile-title: A friend
 //profile-update-interval: 24
-//subscription-userinfo: upload=0; download=0; total=50000; expire=7
+//subscription-userinfo: upload=50000; download=50000; total=10737418240000000; expire=30
 //support-url: https://t.me/ircfspace
 //profile-web-page-url: https://A friend
 

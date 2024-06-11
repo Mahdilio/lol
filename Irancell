@@ -3,6 +3,6 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
 //profile-web-page-url: https://raw.githubusercontent.com/Mahdilio/lol/main/Irancell
 
-warp://[2606:4700:d1::e79e:0634:9f9e:a478]:880/?ifp=1-5#مهدی&&detour=warp://[2606:4700:d1::38f8:6133:dbc6:2eb3]:880/?ifp=1-5#Mahdi
-warp://[2606:4700:d1::a47e:95be:34f6:bd7e]:880/?ifp=1-5#مهدی&&detour=warp://[2606:4700:d0::02d6:1d34:4b1c:7102]:894/?ifp=1-5#Mahdi
-warp://[2606:4700:d1::3465:59e0:9ced:fb4f]:880/?ifp=1-5#مهدی&&detour=warp://[2606:4700:d1::bfa7:3a25:be2a:a458]:880/?ifp=1-5#Mahdi
+warp://[2606:4700:d0::6457:401c:3a3d:4c97]:8319/?ifp=1-5#مهدی&&detour=warp://[2606:4700:d0::2b10:e8af:30a9:5df7]:7103/?ifp=1-5#Mahdi
+warp://[2606:4700:d0::3c5c:53b9:12fc:8c68]:7103/?ifp=1-5#مهدی&&detour=warp://[2606:4700:d0::5c47:a0d4:52e6:9c18]:8319/?ifp=1-5#Mahdi
+warp://[2606:4700:d0::4cc3:62f6:a74c:8c65]:8319/?ifp=1-5#مهدی&&detour=warp://[2606:4700:d0::1010:06e7:c13a:f013]:8319/?ifp=1-5#Mahdi

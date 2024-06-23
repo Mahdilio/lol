@@ -58,13 +58,13 @@
       "tag": "🇮🇷مهدی ",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8aca:c312:dfce:7e2b:a0b9/128"
+        "2606:4700:110:8c94:d763:d45a:1449:e5be/128"
       ],
-      "private_key": "CApwyCajjw5z2chOKBsoxd9nTjC4gXahFoLIZNpnC3s=",
-      "server": "162.159.192.218",
-      "server_port": 8854,
+      "private_key": "sD8ohP9q7pPNWA8Lqw75hpMHFr8LjRHihbTqi+MfX1w=",
+      "server": "162.159.195.133",
+      "server_port": 1180,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [ 199, 166, 209 ],
+      "reserved": [ 11, 106, 56 ],
       "mtu": 1280,
       "fake_packets": "5-10"
     },
@@ -74,13 +74,13 @@
       "detour": "🇮🇷مهدی ",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8f77:ef07:5d85:ba3a:cc6a/128"
+        "2606:4700:110:8f7a:aa3:d5fe:a3c7:e22c/128"
       ],
-      "private_key": "KLb4mWToraLQer0zsTxUpJGjHkRyQ6iD6LqZGk8ZbEk=",
-      "server": "162.159.192.218",
-      "server_port": 8854,
+      "private_key": "kIJfGfpabvwgwmS2d/qBhGrgmsNgTGSilNI6FWy4WXk=",
+      "server": "162.159.195.133",
+      "server_port": 1180,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [ 135, 68, 144 ],
+      "reserved": [ 38, 12, 80 ],
       "mtu": 1280,
       "fake_packets": "5-10"
     },

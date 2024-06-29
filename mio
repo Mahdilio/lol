@@ -30,7 +30,7 @@
         "2606:4700:110:841a:8ddb:8a0c:dd7d:a61/128"
       ],
       "private_key": "IN/ig8RddckqkhBCOjnKSTv/+wLhd3DNlOAltSe7cFk=",
-      "server": "162.159.192.34",
+      "server": "162.159.195.93",
       "server_port": 968,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [ 32, 180, 30 ],

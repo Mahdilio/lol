@@ -39,7 +39,7 @@
       "outbounds": [
         "auto",
         "🇮🇷مهدی ",
-        "Mahdi🇩🇪 "
+        "Mahdi🇪🇺 "
       ],
       "default": "auto"
     },
@@ -48,7 +48,7 @@
       "tag": "auto",
       "outbounds": [
         "🇮🇷مهدی ",
-        "Mahdi🇩🇪 "
+        "Mahdi🇪🇺 "
       ],
       "url": "http://cp.cloudflare.com/",
       "interval": "10m0s"
@@ -61,8 +61,8 @@
         "2606:4700:110:83dd:fe4c:8eed:7c2b:a279/128"
       ],
       "private_key": "eAK3WTaE2gpbXcFPwd/2lO6qkK1BFIL4HNqpKdVr4l8=",
-      "server": "162.159.195.138",
-      "server_port": 987,
+      "server": "162.159.195.182",
+      "server_port": 7156,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [ 150, 71, 60 ],
       "mtu": 1280,
@@ -70,15 +70,15 @@
     },
     {
       "type": "wireguard",
-      "tag": "Mahdi🇩🇪 ",
+      "tag": "Mahdi🇪🇺 ",
       "detour": "🇮🇷مهدی ",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8ac7:958a:2308:6088:60bc/128"
       ],
       "private_key": "ED2H5A5r/ppWqFMe+agub8c3WsoV9Y4rnr9X8hQomFU=",
-      "server": "162.159.195.138",
-      "server_port": 987,
+      "server": "162.159.195.182",
+      "server_port": 7156,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [ 43, 81, 138 ],
       "mtu": 1280,

@@ -14,8 +14,8 @@
         "2606:4700:110:8658:9245:5f8b:4e90:592c/128"
       ],
       "private_key": "kDlUBtOhoaA3K3O1G9Iecmn7BxNeySTrtHdYVeH50X0=",
-      "server": "162.159.195.130",
-      "server_port": 3476,
+      "server": "162.159.192.83",
+      "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [ 8, 253, 96 ],
       "mtu": 1280,
@@ -23,15 +23,15 @@
     },
     {
       "type": "wireguard",
-      "tag": "Mahdi🇩🇪",
+      "tag": "Mahdi🇪🇺",
       "detour": "🇮🇷مهدی",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8ab7:f923:74f:c2:1127/128"
       ],
       "private_key": "+CliIW9e64G4DhUNu6nTzMfpuWncuc7ihNyxs7vmzm8=",
-      "server": "162.159.195.130",
-      "server_port": 3476,
+      "server": "162.159.192.83",
+      "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [ 7, 172, 12 ],
       "mtu": 1280,

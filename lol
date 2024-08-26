@@ -1,7 +1,7 @@
 //profile-title: IOI
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//profile-update-interval: 24
+//subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732
 //profile-web-page-url: https://raw.githubusercontent.com/Mahdilio/lol/main/lol
 
-warp://162.159.192.181:5279?ifp=1-3&ifps=10-20&ifpd=5-10&ifpm=h_30#🇮🇷مهدی&&detour=warp://162.159.195.238:5279#Mahdi🇪🇺
-
+warp://@auto4/?ifp=1-3&ifpm=m4#Local&&detour=warp://@auto4/?ifp=1-3&ifpm=m6#WoW
+warp://@auto4/?ifp=1-2&ifpm=m5#Local&&detour=warp://@auto6/?ifp=2-4&ifpm=m3#WoW

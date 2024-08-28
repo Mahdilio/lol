@@ -4,4 +4,4 @@
 //profile-web-page-url: https://raw.githubusercontent.com/Mahdilio/lol/main/lol
 
 warp://@auto4/?ifp=1-3&ifpm=m4#🇮🇷مهدی&&detour=warp://@auto4/?ifp=1-3&ifpm=m6#Mahdi🌍
-warp://@auto4/?ifp=1-2&ifpm=m5#🇮🇷مهدی&&detour=warp://@auto6/?ifp=2-4&ifpm=m3#Mahdi🌍
+warp://162.159.192.19:1010/?ifp=1-2&ifpm=m5#🇮🇷مهدی&&detour=warp://162.159.192.102:1010/?ifp=2-4&ifpm=m3#Mahdi🌍

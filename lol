@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732
 //profile-web-page-url: https://raw.githubusercontent.com/Mahdilio/lol/main/lol
 
-warp://@auto4/?ifp=1-3&ifpm=m4#🇮🇷مهدی&&detour=warp://@auto4/?ifp=1-3&ifpm=m6#Mahdi🌍
-warp://162.159.192.19:1010/?ifp=1-2&ifpm=m5#🇮🇷مهدی&&detour=warp://162.159.192.102:1010/?ifp=2-4&ifpm=m3#Mahdi🌍
+warp://p1@162.159.192.186:880?ifp=1-3&ifps=10-20&ifpd=5-10&ifpm=h_30#hex&&detour=warp://p2@162.159.192.186:880#WoW
